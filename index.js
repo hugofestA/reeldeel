@@ -27,7 +27,6 @@ function getGateway(){
         setTimeout(function() {
           getGateway();
         }, parseInt(JSON.parse(res.headers).Retry-After, 10) * 1000)
-        console.log('Delay: ' + );
       } else {
         console.log('Received non-ok response: ' + res.statusCode);
       }
