@@ -15,7 +15,7 @@
     "reeldel"
   ],
   "dependencies": {
-    "discord.io": "0.0.0"
+    "http": "0.0.0"
   },
   "license": "ISC"
 }
