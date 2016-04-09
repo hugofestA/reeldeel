@@ -1,0 +1,21 @@
+{
+  "name": "reeldeel",
+  "version": "1.0",
+  "description": "Official Discord Bot API for Node.js",
+  "author": "hugofestA",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugofestA/reeldeel"
+  },
+  "keywords": [
+    "reeldel"
+  ],
+  "dependencies": {
+    "discord.io": "0.0.0"
+  },
+  "license": "ISC"
+}
