@@ -1,6 +1,6 @@
 {
   "name": "reeldeel",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Official Discord Bot API for Node.js",
   "author": "hugofestA",
   "scripts": {
