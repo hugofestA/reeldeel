@@ -9,7 +9,7 @@ function getGateway(){
     host: 'discordapp.com',
     path: '/api/gateway',
     headers: {
-      'User-Agent': useragent;
+      'User-Agent': useragent
     }
   }, function(res) {
     if (res.statusCode === 200) {
