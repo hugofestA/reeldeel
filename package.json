@@ -15,7 +15,8 @@
     "reeldel"
   ],
   "dependencies": {
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "websocket": "1.0.22"
   },
   "license": "ISC"
 }
